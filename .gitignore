@@ -12,3 +12,5 @@ alpaca-repo/alf_data_dev
 alpaca-repo/target
 alpaca-share/target
 alpaca-share/share.log.*
+.classpath
+.project
